@@ -1,3 +1,7 @@
+![1_yw0TnheAGN-LPneDaTlaxw](https://github.com/Rohit-kkumar/rohit-kkumar/assets/150255683/6acfce60-1d72-42cd-9546-5a069ed92f7c)
+
+
+
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">Rohit Kumar is a passionate developer and problem-solver who is currently learning and working on various technologies to enhance his skills.</h3>
 
